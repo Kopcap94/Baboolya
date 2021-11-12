@@ -1,0 +1,10 @@
+#!/bin/bash
+restart() {
+  ruby trb.rb
+  echo $$
+  wait
+  sleep 5
+  restart
+}
+
+restart

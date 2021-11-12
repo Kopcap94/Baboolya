@@ -1,0 +1,13 @@
+{
+  "token": "shalom_token",
+  "id": 0000,
+  "prefix": "!",
+  "owner": [
+    0000_id_of_owner_1,
+    0001_id_of_owner_2
+  ],
+  "groups": {
+    "access_token": "shalom_token"
+  },
+  "ignored": []
+}
